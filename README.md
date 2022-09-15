@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Tic Tac Toe
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's a [tutorial](https://reactjs.org/tutorial/tutorial.html#complex-features-become-simple) to learn the techniques that are fundamental to building any React app and will give you a deep understanding of React.
+
+## How To Play
+1. The game is played on a grid that's 3 squares by 3 squares.
+2. Players take turns putting their marks (X or O) alternately in empty squares.
+3. The first player to get 3 of of her marks in a row (up, down, across, diagonally) is the winner.
+4. When all 9 squares are full, the game is over.
+
+## Game Features
+- interactive
+- indicates whose turn is it
+- indicates when a player has won the game
+- stores game history as the game progresses
+- allows players to review the game's history and see previous versions of the game board
+
+## Wireframes
+![Screen Shot 2022-09-15 at 11 54 51 AM](https://user-images.githubusercontent.com/63468278/190486433-dfc7bb20-5c52-4007-8f75-65259588fca0.png)
+![Screen Shot 2022-09-15 at 11 54 32 AM](https://user-images.githubusercontent.com/63468278/190486369-6e773168-c3b0-4a3d-8feb-083f18f6de00.png)
 
 ## Available Scripts
 
